@@ -1,1 +1,4 @@
-# traefik_advanced_config_first_traefik_yml
+Traefik : Configuration avancée, à la découverte des configurations
+== 
+
+Dépôt pour les fichiers de configuration utilisés en exemple sur l'article : https://www.grottedubarbu.fr/traefik-first-traefik-yml/
